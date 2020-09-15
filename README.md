@@ -24,6 +24,6 @@ Wciąż rozwijany silnik gry przeznaczony do gier 2D z rzutem z góry w przyszł
 - Możliwie proste dodawanie nowych,
 - Kilka różnych, możliwych do wyboru ustawień co do położenia tekstu
 
-###### Aktualny stan
+##### Aktualny stan
  
-Dialogie jak i menu nie są do końca zaimplementowane, a kolizje są nieco mało elastyczne. Dialogi można wypróbować dodając linię "init_dialogue(abc);" do gameLoop po wywołaniu funkcji draw_current_world();
+###### Dialogie jak i menu nie są do końca zaimplementowane, a kolizje są nieco mało elastyczne. Dialogi można wypróbować dodając linię "init_dialogue(abc);" do gameLoop po wywołaniu funkcji draw_current_world();
